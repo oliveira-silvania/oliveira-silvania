@@ -37,5 +37,5 @@ Atualmente, atuo como **Estagiária de Banco de Dados** na Secretaria de Estado 
 
 * **Análise de Redes Complexas (TCC)**
     * Análise de grafos e métricas de centralidade focada na produção científica feminina em áreas STEM (2021–2023), utilizando Python.
-    * [➡️ **Acessar Repositório do Projeto**](LINK_DO_SEU_REPOSITORIO_TCC)
+    * [➡️ **Acessar Repositório do Projeto**](https://github.com/oliveira-silvania/TCC.git)
 
