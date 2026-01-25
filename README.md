@@ -35,9 +35,7 @@ Atualmente, atuo como **Estagiária de Banco de Dados** na Secretaria de Estado 
 
 ### 🚀 Projetos Recentes
 
-* **Análise de Redes Complexas (TCC - Nota 10)**
+* **Análise de Redes Complexas (TCC)**
     * Análise de grafos e métricas de centralidade focada na produção científica feminina em áreas STEM (2021–2023), utilizando Python.
     * [➡️ **Acessar Repositório do Projeto**](LINK_DO_SEU_REPOSITORIO_TCC)
 
-* **Mini Sistema Operacional**
-    * Desenvolvimento de funcionalidades de gerenciamento de processos e arquivos utilizando a linguagem C (Disciplina: Sistemas Operacionais II).
