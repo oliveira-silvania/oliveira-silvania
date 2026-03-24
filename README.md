@@ -13,7 +13,7 @@ Atualmente, atuo na **Norven** com foco em **QA e Teste de Software**. Minha tra
 
 * 🏆 **Destaque Acadêmico:** TCC aprovado com **Nota Máxima (10)** sobre Redes Complexas e dados da Plataforma Sucupira.
 * 💼 **Experiência:** Testes de Software (QA) e gestão de Banco de Dados (SQL Server).
-* 🌱 **Interesses:** Quality Assurance, Data Science, DevOps, Python e SQL.
+* 🌱 **Interesses:** Quality Assurance, Data Science, Python e SQL.
 
 ---
 
