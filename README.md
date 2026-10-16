@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvania-alves-oliveira-893412214)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaniaalvesrbd@gmail.com)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=readthedocs&logoColor=white)](http://lattes.cnpq.br/9945985080163647)
 
 🚀 **Aberta a novas oportunidades profissionais nas áreas de Quality Assurance, Teste de Software, Análise de Dados e Ciência de Dados.**
 
